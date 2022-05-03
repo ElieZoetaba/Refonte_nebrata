@@ -1,0 +1,99 @@
+header{
+    border: 2px solid transparent;
+    font-size: 20px;
+    background-color: rgba(117, 226, 117, 0.678);
+    font-weight: bold;
+}
+header img{
+    width: 100%;
+    height: 60px;
+    margin-right: 42%;
+}
+header li{
+    list-style-type: none;
+}
+header .container{
+    margin: 20px 0;
+    justify-content: center;
+}
+
+hr{
+    height: 5px !important;
+    color: seagreen !important;
+}
+.container{
+    margin: 20px 0;
+   
+}
+.carousel{
+    /* height: ; */
+    border: 1pc solid;
+    margin: 20px 0;
+}
+.carousel img{
+    height: 400px;
+}
+.realis .row{
+    margin: 20px 0;
+}
+.realis{
+    background:lavender;
+    padding: 50px;
+}
+.realis-list{
+    padding: 0 !important;
+    /* width:; */
+}
+
+.card{
+    height: 450px;
+}
+.card-body{
+    display: block;
+}
+.card img{
+    height: 300px;
+}
+h2{
+    margin: 2% 0;
+    text-transform:uppercase;
+    text-transform: uppercase;
+}
+.paragraphe{
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 0 5px;
+    border-radius: 10px;
+    border: rgba(255, 166, 0, 0) 2px solid;
+}
+.paragraphe:hover{
+        border: orange 2px solid;
+        transition: 1s;
+    }
+footer a{
+    text-decoration: none;
+    font-size: initial;
+    font-weight: bold;
+}
+footer .col{
+    text-align: none;
+}
+footer .container{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align:;
+}
+footer{
+    border: 2px solid transparent;
+    background-color: rgba(117, 226, 117, 0.678);
+    text-align: center;
+    
+}
+.base{
+    height: 50px;
+    background-color:black;
+}
+footer .row{
+    margin: 0 !important;
+}

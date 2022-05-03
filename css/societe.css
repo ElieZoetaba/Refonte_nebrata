@@ -1,0 +1,109 @@
+header{
+    border: 2px solid transparent;
+    font-size: 20px;
+    background-color: rgba(117, 226, 117, 0.678);
+    font-weight: bold;
+}
+header img{
+    width: 100%;
+    height: 60px;
+    margin-right: 42%;
+}
+header li{
+    list-style-type: none;
+}
+header .container{
+    margin: 20px 0;
+    justify-content: center;
+}
+
+.societe{
+    width: 90%;
+    margin: 0px auto;
+    justify-content: center;
+}
+.societe img{
+    width: 100%;
+}
+.texte h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+societe p{
+ width: 50%;
+ margin-left: 25%;
+ padding: 10px;
+ font-weight: 150px;  
+}
+
+societe h3{
+    margin-left: 40%;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 300px;
+}
+.part{
+    width: 100%;
+    display: flex;
+    margin: 0px auto;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.part h2{
+    text-align: center;
+}
+.part img{
+    width: 150px;
+}
+footer a{
+    text-decoration: none;
+    font-size: initial;
+    font-weight: bold;
+    color: black;
+}
+footer .col{
+    text-align: none;
+}
+footer .container{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align:;
+}
+footer{
+    border: 2px solid transparent;
+    background-color: rgba(117, 226, 117, 0.678);
+    text-align: center;
+    
+}
+.base{
+    height: 50px;
+    background-color:black;
+}
+footer .row{
+    margin: 0 !important;
+}
+
+.carousel-item p{
+    color: black;
+}
+.carousel-item h5{
+    color: black;
+}
+.carousel-item img{
+    height: 400px;
+    width: 20px; ;
+}
+.carousel-caption img{
+    height: 30%;
+    width: auto;
+    
+}
+
+.base{
+    height: 50px;
+    border: 2px solid;
+    background-color: #000;
+    
+}
